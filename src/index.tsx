@@ -18,7 +18,7 @@ createServer({
           title: 'Teste',
           type: 'income',
           category: 'Dev',
-          amount: 500,
+          amount: 5000,
           createdAt: new Date('2021-02-12 09:00:00')
         },
         {
